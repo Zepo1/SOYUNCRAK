@@ -1,0 +1,10 @@
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\bin\Debug\SOYUNCRAK.exe.config
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\bin\Debug\SOYUNCRAK.exe
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\bin\Debug\SOYUNCRAK.pdb
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.csproj.AssemblyReference.cache
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.Form1.resources
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.Properties.Resources.resources
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.csproj.GenerateResource.cache
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.csproj.CoreCompileInputs.cache
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.exe
+D:\VISUAL\mollo\vectores\SOYUNCRAK\SOYUNCRAK\obj\Debug\SOYUNCRAK.pdb
